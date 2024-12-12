@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hozqrjl812Q=",
+  "dgSpecHash": "J73I5jI2I/U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "F:\\T\\Template\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell XPS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Dell XPS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

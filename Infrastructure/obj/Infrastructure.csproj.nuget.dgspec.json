@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Infrastructure.csproj": {}
+    "F:\\T\\Template\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Application.csproj": {
+    "F:\\T\\Template\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Application.csproj",
+        "projectUniqueName": "F:\\T\\Template\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Application.csproj",
+        "projectPath": "F:\\T\\Template\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Dell XPS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\obj\\",
+        "outputPath": "F:\\T\\Template\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Domain.csproj"
+              "F:\\T\\Template\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\T\\Template\\Domain\\Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj": {
+    "F:\\T\\Template\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj",
+        "projectUniqueName": "F:\\T\\Template\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj",
+        "projectPath": "F:\\T\\Template\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Dell XPS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\obj\\",
+        "outputPath": "F:\\T\\Template\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Domain.csproj": {
+    "F:\\T\\Template\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\T\\Template\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Domain.csproj",
+        "projectPath": "F:\\T\\Template\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Dell XPS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\obj\\",
+        "outputPath": "F:\\T\\Template\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,8 +183,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj"
+              "F:\\T\\Template\\Common\\Common.csproj": {
+                "projectPath": "F:\\T\\Template\\Common\\Common.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Infrastructure.csproj": {
+    "F:\\T\\Template\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "F:\\T\\Template\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "F:\\T\\Template\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Dell XPS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\obj\\",
+        "outputPath": "F:\\T\\Template\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,11 +258,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Application.csproj"
+              "F:\\T\\Template\\Application\\Application.csproj": {
+                "projectPath": "F:\\T\\Template\\Application\\Application.csproj"
               },
-              "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Domain.csproj"
+              "F:\\T\\Template\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\T\\Template\\Domain\\Domain.csproj"
               }
             }
           }

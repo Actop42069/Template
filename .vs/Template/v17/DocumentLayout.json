@@ -1,337 +1,337 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\",
+  "WorkspaceRootPath": "F:\\T\\Template\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\migrations\\20241212091945_updatedatatypeerrorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241212091945_updatedatatypeerrorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\errorlogs\\query\\listerrorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\errorlogs\\query\\listerrorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\controllers\\admin\\errorlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\errorlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\behaviors\\validationexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\behaviors\\validationexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\behaviors\\eventdispatcherbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\behaviors\\eventdispatcherbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\controllers\\admin\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\interface\\itemplatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\itemplatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\persistance\\templatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\templatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\services\\errorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\errorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\activateaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\activateaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\activateaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\reinviteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\reinviteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\resendmfatokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resendmfatokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\resendmfatokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resendmfatokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\enablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\enablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\disablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\disablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\accountsignupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountsignupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\interface\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\event\\usereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\event\\usereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\interface\\ierrorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\ierrorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\persistance\\configuration\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\configuration\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\persistance\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\persistance\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\controllers\\admin\\baseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\baseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\admin\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\activateaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\activateaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\accountsignupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountsignupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\users\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\interface\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|C:\\Users\\Dell XPS\\source\\repos\\Template\\common\\resources\\emailcontent.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\resources\\emailcontent.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\attributes\\useraccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\attributes\\useraccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\configurations\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\configurations\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\registerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\migrations\\20241212091945_updatedatatypeerrorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241212091945_updatedatatypeerrorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\accountlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\errorlogs\\query\\listerrorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\errorlogs\\query\\listerrorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\controllers\\admin\\errorlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\errorlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\behaviors\\validationexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\behaviors\\validationexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\behaviors\\eventdispatcherbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\behaviors\\eventdispatcherbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\controllers\\admin\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\interface\\itemplatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\itemplatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\persistance\\templatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\templatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\services\\errorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\errorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\reinviteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\reinviteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\resendmfatokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resendmfatokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\resendmfatokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resendmfatokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\requestresetaccountpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\enablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\enablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\disablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\disablemfacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\accountsignupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountsignupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\interface\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\event\\usereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\event\\usereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\interface\\ierrorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\ierrorlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\persistance\\configuration\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\configuration\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\persistance\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\persistance\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\controllers\\admin\\baseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\admin\\baseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\requestresetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\admin\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\admin\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\resetaccountpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\activateaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\activateaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\accountsignupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountsignupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\users\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\users\\command\\accountloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\interface\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|F:\\T\\Template\\common\\resources\\emailcontent.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\resources\\emailcontent.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\attributes\\useraccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\attributes\\useraccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\configurations\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\configurations\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\registerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\registerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\registercommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\registercommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\registercommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\attributes\\adminaccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\attributes\\adminaccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\attributes\\adminaccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|c:\\users\\dell xps\\source\\repos\\template\\application\\model\\authresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|f:\\t\\template\\application\\model\\authresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D031C895-9218-4E8C-B462-42C9DD5C5A47}|Application\\Application.csproj|solutionrelative:application\\model\\authresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\enumeration\\authtokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\enumeration\\authtokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\enumeration\\authtokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\configurations\\ftpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\configurations\\ftpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\configurations\\ftpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\persistance\\configuration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\persistance\\configuration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\configuration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\interfaces\\ieventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\interfaces\\ieventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\interfaces\\ieventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\services\\eventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\services\\eventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\services\\eventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|c:\\users\\dell xps\\source\\repos\\template\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|f:\\t\\template\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BC45D9A6-B27C-417A-A89A-21F8205DBD0B}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\events\\updatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\events\\updatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\events\\updatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\events\\createdevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\events\\createdevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\events\\createdevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\enumeration\\mfaprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\enumeration\\mfaprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\enumeration\\mfaprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\enumeration\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\enumeration\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\enumeration\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|c:\\users\\dell xps\\source\\repos\\template\\domain\\enumeration\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|f:\\t\\template\\domain\\enumeration\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FE6951-3045-4FDD-BAF9-395FD07DF1BA}|Domain\\Domain.csproj|solutionrelative:domain\\enumeration\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\interfaces\\iupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\interfaces\\iupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\interfaces\\iupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|c:\\users\\dell xps\\source\\repos\\template\\common\\interfaces\\icreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|f:\\t\\template\\common\\interfaces\\icreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97BC30D-1BED-4600-B63D-A82AFAFD638A}|Common\\Common.csproj|solutionrelative:common\\interfaces\\icreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell xps\\source\\repos\\template\\infrastructure\\migrations\\20241212065345_addederrorlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|f:\\t\\template\\infrastructure\\migrations\\20241212065345_addederrorlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF9D3007-96E1-4412-95A4-A22A371C1BF0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241212065345_addederrorlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -342,7 +342,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -362,84 +362,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241212091945_UpdateDataTypeErrorLog.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "DocumentIndex": 4,
+              "Title": "AccountLoginCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\AccountLoginCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Command\\AccountLoginCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\AccountLoginCommand.cs",
+              "RelativeToolTip": "Application\\Users\\Command\\AccountLoginCommand.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:19:45.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ListErrorQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
-              "RelativeDocumentMoniker": "Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
-              "RelativeToolTip": "Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvykAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:44:24.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ErrorLogService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\ErrorLogService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ErrorLogService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\ErrorLogService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ErrorLogService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T05:36:46.87Z"
+              "WhenOpened": "2024-12-11T10:27:25.856Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountLoginCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\AccountLoginCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Admin\\Command\\AccountLoginCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\AccountLoginCommand.cs",
-              "RelativeToolTip": "Application\\Admin\\Command\\AccountLoginCommand.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAUwCkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:40:54.273Z"
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\T\\Template\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "F:\\T\\Template\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T11:17:18.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IdentityService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\IdentityService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\IdentityService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\IdentityService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\IdentityService.cs",
-              "ViewState": "AQIAAPYBAAAAAAAAAAA7wA8CAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T06:47:21.421Z"
+              "Title": "appsettings.Example.json",
+              "DocumentMoniker": "F:\\T\\Template\\API\\appsettings.Example.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Example.json",
+              "ToolTip": "F:\\T\\Template\\API\\appsettings.Example.json",
+              "RelativeToolTip": "API\\appsettings.Example.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T11:21:41.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventDispatcherBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Behaviors\\EventDispatcherBehavior.cs",
-              "RelativeDocumentMoniker": "Common\\Behaviors\\EventDispatcherBehavior.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Behaviors\\EventDispatcherBehavior.cs",
-              "RelativeToolTip": "Common\\Behaviors\\EventDispatcherBehavior.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:51:28.651Z"
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\T\\Template\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "F:\\T\\Template\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T05:43:54.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ActivateAccountCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\ActivateAccountCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Command\\ActivateAccountCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\ActivateAccountCommand.cs",
+              "RelativeToolTip": "Application\\Users\\Command\\ActivateAccountCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:30:58.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ValidationExceptionBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Behaviors\\ValidationExceptionBehavior.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Behaviors\\ValidationExceptionBehavior.cs",
               "RelativeDocumentMoniker": "Common\\Behaviors\\ValidationExceptionBehavior.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Behaviors\\ValidationExceptionBehavior.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Behaviors\\ValidationExceptionBehavior.cs",
               "RelativeToolTip": "Common\\Behaviors\\ValidationExceptionBehavior.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAowBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,11 +435,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "EventDispatcherBehavior.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Behaviors\\EventDispatcherBehavior.cs",
+              "RelativeDocumentMoniker": "Common\\Behaviors\\EventDispatcherBehavior.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Behaviors\\EventDispatcherBehavior.cs",
+              "RelativeToolTip": "Common\\Behaviors\\EventDispatcherBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:51:28.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Services\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\IdentityService.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Services\\IdentityService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\IdentityService.cs",
+              "ViewState": "AQIAAPcBAAAAAAAAAAAkwA8CAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:47:21.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountLoginCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\AccountLoginCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Admin\\Command\\AccountLoginCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\AccountLoginCommand.cs",
+              "RelativeToolTip": "Application\\Admin\\Command\\AccountLoginCommand.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:40:54.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorLogService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Services\\ErrorLogService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ErrorLogService.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Services\\ErrorLogService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ErrorLogService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:36:46.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241212091945_UpdateDataTypeErrorLog.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241212091945_UpdateDataTypeErrorLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:19:45.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Controllers\\Admin\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\Admin\\UsersController.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Controllers\\Admin\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\Admin\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:48:55.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListErrorQuery.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
+              "RelativeDocumentMoniker": "Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
+              "RelativeToolTip": "Application\\ErrorLogs\\Query\\ListErrorQuery.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:44:24.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ErrorLogController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\ErrorLogController.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Controllers\\Admin\\ErrorLogController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\Admin\\ErrorLogController.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\ErrorLogController.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Controllers\\Admin\\ErrorLogController.cs",
               "RelativeToolTip": "API\\Controllers\\Admin\\ErrorLogController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,11 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ErrorLog.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\ErrorLog.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Entities\\ErrorLog.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ErrorLog.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\ErrorLog.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Entities\\ErrorLog.cs",
               "RelativeToolTip": "Domain\\Entities\\ErrorLog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -473,21 +545,21 @@
               "$type": "Document",
               "DocumentIndex": 82,
               "Title": "20241212065345_AddedErrorLogs.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Migrations\\20241212065345_AddedErrorLogs.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Migrations\\20241212065345_AddedErrorLogs.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241212065345_AddedErrorLogs.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Migrations\\20241212065345_AddedErrorLogs.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Migrations\\20241212065345_AddedErrorLogs.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20241212065345_AddedErrorLogs.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T06:53:46.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "RequestResetAccountPasswordValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordValidator.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\RequestResetAccountPasswordValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordValidator.cs",
               "RelativeToolTip": "Application\\Users\\Command\\RequestResetAccountPasswordValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,11 +567,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "TemplateDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\TemplateDbContext.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Persistance\\TemplateDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistance\\TemplateDbContext.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\TemplateDbContext.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Persistance\\TemplateDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Persistance\\TemplateDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,11 +579,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\AccountsController.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Controllers\\Admin\\AccountsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\Admin\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\AccountsController.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Controllers\\Admin\\AccountsController.cs",
               "RelativeToolTip": "API\\Controllers\\Admin\\AccountsController.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAYwFkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -519,23 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\UsersController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\Admin\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\UsersController.cs",
-              "RelativeToolTip": "API\\Controllers\\Admin\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:48:55.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "RequestResetAccountPasswordCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordCommand.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\RequestResetAccountPasswordCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordCommand.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\RequestResetAccountPasswordCommand.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAuwDgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +603,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "ResetAccountPasswordCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\ResetAccountPasswordCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\ResetAccountPasswordCommand.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\ResetAccountPasswordCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\ResetAccountPasswordCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\ResetAccountPasswordCommand.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\ResetAccountPasswordCommand.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAYwDkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -555,11 +615,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ITemplateDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\ITemplateDbContext.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Interface\\ITemplateDbContext.cs",
               "RelativeDocumentMoniker": "Application\\Interface\\ITemplateDbContext.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\ITemplateDbContext.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Interface\\ITemplateDbContext.cs",
               "RelativeToolTip": "Application\\Interface\\ITemplateDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -567,11 +627,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "DeleteUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\DeleteUserCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\DeleteUserCommand.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\DeleteUserCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\DeleteUserCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\DeleteUserCommand.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\DeleteUserCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -579,11 +639,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\CreateUserCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\CreateUserCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\CreateUserCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\CreateUserCommand.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\CreateUserCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -591,11 +651,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "CreateUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\CreateUserValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\CreateUserValidator.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\CreateUserValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\CreateUserValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\CreateUserValidator.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\CreateUserValidator.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -603,23 +663,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ActivateAccountCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ActivateAccountCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Users\\Command\\ActivateAccountCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ActivateAccountCommand.cs",
-              "RelativeToolTip": "Application\\Users\\Command\\ActivateAccountCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:30:58.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "ReinviteUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\ReinviteUserCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\ReinviteUserCommand.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\ReinviteUserCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\ReinviteUserCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\ReinviteUserCommand.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\ReinviteUserCommand.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwDQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -627,11 +675,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ResetAccountPasswordCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResetAccountPasswordCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\ResetAccountPasswordCommand.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\ResetAccountPasswordCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResetAccountPasswordCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\ResetAccountPasswordCommand.cs",
               "RelativeToolTip": "Application\\Users\\Command\\ResetAccountPasswordCommand.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwDcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -639,11 +687,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ResendMfaTokenValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResendMfaTokenValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\ResendMfaTokenValidator.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\ResendMfaTokenValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResendMfaTokenValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\ResendMfaTokenValidator.cs",
               "RelativeToolTip": "Application\\Users\\Command\\ResendMfaTokenValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -651,11 +699,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "ResendMfaTokenResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResendMfaTokenResponse.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\ResendMfaTokenResponse.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\ResendMfaTokenResponse.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResendMfaTokenResponse.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\ResendMfaTokenResponse.cs",
               "RelativeToolTip": "Application\\Users\\Command\\ResendMfaTokenResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -663,11 +711,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "RequestResetAccountPasswordCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordCommand.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\RequestResetAccountPasswordCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\RequestResetAccountPasswordCommand.cs",
               "RelativeToolTip": "Application\\Users\\Command\\RequestResetAccountPasswordCommand.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwDgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -675,11 +723,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "EnableMfaCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\EnableMfaCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\EnableMfaCommand.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\EnableMfaCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\EnableMfaCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\EnableMfaCommand.cs",
               "RelativeToolTip": "Application\\Users\\Command\\EnableMfaCommand.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -687,11 +735,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "DisableMfaCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\DisableMfaCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\DisableMfaCommand.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\DisableMfaCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\DisableMfaCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\DisableMfaCommand.cs",
               "RelativeToolTip": "Application\\Users\\Command\\DisableMfaCommand.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -699,11 +747,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "AccountSignupCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountSignupCommand.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\AccountSignupCommand.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\AccountSignupCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountSignupCommand.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\AccountSignupCommand.cs",
               "RelativeToolTip": "Application\\Users\\Command\\AccountSignupCommand.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAYwD0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -711,35 +759,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\AccountsController.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\AccountsController.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "API\\Controllers\\AccountsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T06:40:39.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\appsettings.Development.json",
-              "RelativeToolTip": "API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T11:17:18.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Program.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Program.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AQIAAGsAAAAAAAAAAAAUwHoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -747,35 +783,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AccountLoginCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountLoginCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Users\\Command\\AccountLoginCommand.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountLoginCommand.cs",
-              "RelativeToolTip": "Application\\Users\\Command\\AccountLoginCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:27:25.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "IIdentityService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IIdentityService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Interface\\IIdentityService.cs",
               "RelativeDocumentMoniker": "Application\\Interface\\IIdentityService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IIdentityService.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Interface\\IIdentityService.cs",
               "RelativeToolTip": "Application\\Interface\\IIdentityService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAADgvx4AAAAZAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwB4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T06:12:26.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "UserEventHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Event\\UserEventHandler.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Event\\UserEventHandler.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Event\\UserEventHandler.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Event\\UserEventHandler.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Event\\UserEventHandler.cs",
               "RelativeToolTip": "Application\\Users\\Event\\UserEventHandler.cs",
               "ViewState": "AQIAADsAAAAAAAAAAAAgwCgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -783,11 +807,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ResetAccountPasswordValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\ResetAccountPasswordValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\ResetAccountPasswordValidator.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\ResetAccountPasswordValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\ResetAccountPasswordValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\ResetAccountPasswordValidator.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\ResetAccountPasswordValidator.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -795,11 +819,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "IErrorLogService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IErrorLogService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Interface\\IErrorLogService.cs",
               "RelativeDocumentMoniker": "Application\\Interface\\IErrorLogService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IErrorLogService.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Interface\\IErrorLogService.cs",
               "RelativeToolTip": "Application\\Interface\\IErrorLogService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -807,23 +831,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T05:43:54.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ErrorLogConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\ErrorLogConfiguration.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\ErrorLogConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistance\\Configuration\\ErrorLogConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\ErrorLogConfiguration.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\ErrorLogConfiguration.cs",
               "RelativeToolTip": "Infrastructure\\Persistance\\Configuration\\ErrorLogConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -831,11 +843,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "RequestResetAccountPasswordValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordValidator.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\RequestResetAccountPasswordValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\RequestResetAccountPasswordValidator.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\RequestResetAccountPasswordValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -843,11 +855,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "BaseAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\BaseAdminController.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Controllers\\Admin\\BaseAdminController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\Admin\\BaseAdminController.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\Admin\\BaseAdminController.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Controllers\\Admin\\BaseAdminController.cs",
               "RelativeToolTip": "API\\Controllers\\Admin\\BaseAdminController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -855,11 +867,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "RoleConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\RoleConfiguration.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistance\\Configuration\\RoleConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\RoleConfiguration.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\RoleConfiguration.cs",
               "RelativeToolTip": "Infrastructure\\Persistance\\Configuration\\RoleConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -867,11 +879,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\UserConfiguration.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistance\\Configuration\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\UserConfiguration.cs",
               "RelativeToolTip": "Infrastructure\\Persistance\\Configuration\\UserConfiguration.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAQwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -879,11 +891,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "AccountLoginValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\AccountLoginValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Admin\\Command\\AccountLoginValidator.cs",
               "RelativeDocumentMoniker": "Application\\Admin\\Command\\AccountLoginValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Admin\\Command\\AccountLoginValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Admin\\Command\\AccountLoginValidator.cs",
               "RelativeToolTip": "Application\\Admin\\Command\\AccountLoginValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -891,11 +903,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "ResetAccountPasswordValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResetAccountPasswordValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\ResetAccountPasswordValidator.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\ResetAccountPasswordValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ResetAccountPasswordValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\ResetAccountPasswordValidator.cs",
               "RelativeToolTip": "Application\\Users\\Command\\ResetAccountPasswordValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -903,11 +915,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "ActivateAccountValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ActivateAccountValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\ActivateAccountValidator.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\ActivateAccountValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\ActivateAccountValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\ActivateAccountValidator.cs",
               "RelativeToolTip": "Application\\Users\\Command\\ActivateAccountValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwDEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -915,11 +927,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "AccountSignupValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountSignupValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\AccountSignupValidator.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\AccountSignupValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountSignupValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\AccountSignupValidator.cs",
               "RelativeToolTip": "Application\\Users\\Command\\AccountSignupValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -927,11 +939,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "API.http",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\API.http",
+              "DocumentMoniker": "F:\\T\\Template\\API\\API.http",
               "RelativeDocumentMoniker": "API\\API.http",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\API.http",
+              "ToolTip": "F:\\T\\Template\\API\\API.http",
               "RelativeToolTip": "API\\API.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -939,11 +951,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "AccountLoginValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountLoginValidator.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Users\\Command\\AccountLoginValidator.cs",
               "RelativeDocumentMoniker": "Application\\Users\\Command\\AccountLoginValidator.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Users\\Command\\AccountLoginValidator.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Users\\Command\\AccountLoginValidator.cs",
               "RelativeToolTip": "Application\\Users\\Command\\AccountLoginValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -951,22 +963,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "EmailContent.resx",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Resources\\EmailContent.resx",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Resources\\EmailContent.resx",
               "RelativeDocumentMoniker": "Common\\Resources\\EmailContent.resx",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Resources\\EmailContent.resx",
+              "ToolTip": "F:\\T\\Template\\Common\\Resources\\EmailContent.resx",
               "RelativeToolTip": "Common\\Resources\\EmailContent.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-12-10T06:00:10.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "UserAccessAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Attributes\\UserAccessAttribute.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Attributes\\UserAccessAttribute.cs",
               "RelativeDocumentMoniker": "API\\Attributes\\UserAccessAttribute.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Attributes\\UserAccessAttribute.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Attributes\\UserAccessAttribute.cs",
               "RelativeToolTip": "API\\Attributes\\UserAccessAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -974,11 +986,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\BaseController.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Controllers\\BaseController.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Controllers\\BaseController.cs",
               "RelativeToolTip": "API\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -986,11 +998,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IEmailService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Interface\\IEmailService.cs",
               "RelativeDocumentMoniker": "Application\\Interface\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IEmailService.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Interface\\IEmailService.cs",
               "RelativeToolTip": "Application\\Interface\\IEmailService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -998,11 +1010,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\EmailService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Services\\EmailService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\EmailService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1010,11 +1022,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\FileService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Services\\FileService.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Services\\FileService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\FileService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1022,11 +1034,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "IFileService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IFileService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Interface\\IFileService.cs",
               "RelativeDocumentMoniker": "Application\\Interface\\IFileService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Interface\\IFileService.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Interface\\IFileService.cs",
               "RelativeToolTip": "Application\\Interface\\IFileService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1034,11 +1046,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "EmailConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Configurations\\EmailConfiguration.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Configurations\\EmailConfiguration.cs",
               "RelativeDocumentMoniker": "Common\\Configurations\\EmailConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Configurations\\EmailConfiguration.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Configurations\\EmailConfiguration.cs",
               "RelativeToolTip": "Common\\Configurations\\EmailConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1046,11 +1058,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\Role.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\Role.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Entities\\Role.cs",
               "RelativeToolTip": "Domain\\Entities\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1058,11 +1070,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "FileHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Helpers\\FileHelper.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Helpers\\FileHelper.cs",
               "RelativeDocumentMoniker": "Common\\Helpers\\FileHelper.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Helpers\\FileHelper.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Helpers\\FileHelper.cs",
               "RelativeToolTip": "Common\\Helpers\\FileHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1070,11 +1082,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\UserRole.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\UserRole.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\UserRole.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Entities\\UserRole.cs",
               "RelativeToolTip": "Domain\\Entities\\UserRole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1082,23 +1094,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "appsettings.Example.json",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\appsettings.Example.json",
-              "RelativeDocumentMoniker": "API\\appsettings.Example.json",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\appsettings.Example.json",
-              "RelativeToolTip": "API\\appsettings.Example.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T11:21:41.064Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 64,
               "Title": "AdminAccessAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Attributes\\AdminAccessAttribute.cs",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Attributes\\AdminAccessAttribute.cs",
               "RelativeDocumentMoniker": "API\\Attributes\\AdminAccessAttribute.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Attributes\\AdminAccessAttribute.cs",
+              "ToolTip": "F:\\T\\Template\\API\\Attributes\\AdminAccessAttribute.cs",
               "RelativeToolTip": "API\\Attributes\\AdminAccessAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1108,9 +1108,9 @@
               "$type": "Document",
               "DocumentIndex": 62,
               "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\DbInitializer.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Persistance\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistance\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\DbInitializer.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Persistance\\DbInitializer.cs",
               "RelativeToolTip": "Infrastructure\\Persistance\\DbInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1120,9 +1120,9 @@
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "RegisterCommon.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\RegisterCommon.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\RegisterCommon.cs",
               "RelativeDocumentMoniker": "Common\\RegisterCommon.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\RegisterCommon.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\RegisterCommon.cs",
               "RelativeToolTip": "Common\\RegisterCommon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1132,9 +1132,9 @@
               "$type": "Document",
               "DocumentIndex": 60,
               "Title": "RegisterApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\RegisterApplication.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\RegisterApplication.cs",
               "RelativeDocumentMoniker": "Application\\RegisterApplication.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\RegisterApplication.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\RegisterApplication.cs",
               "RelativeToolTip": "Application\\RegisterApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1144,9 +1144,9 @@
               "$type": "Document",
               "DocumentIndex": 63,
               "Title": "Common.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Common.csproj",
               "RelativeDocumentMoniker": "Common\\Common.csproj",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj",
+              "ToolTip": "F:\\T\\Template\\Common\\Common.csproj",
               "RelativeToolTip": "Common\\Common.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1156,9 +1156,9 @@
               "$type": "Document",
               "DocumentIndex": 65,
               "Title": "AuthResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Model\\AuthResponseModel.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Application\\Model\\AuthResponseModel.cs",
               "RelativeDocumentMoniker": "Application\\Model\\AuthResponseModel.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Application\\Model\\AuthResponseModel.cs",
+              "ToolTip": "F:\\T\\Template\\Application\\Model\\AuthResponseModel.cs",
               "RelativeToolTip": "Application\\Model\\AuthResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1168,9 +1168,9 @@
               "$type": "Document",
               "DocumentIndex": 66,
               "Title": "AuthTokenType.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\AuthTokenType.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Enumeration\\AuthTokenType.cs",
               "RelativeDocumentMoniker": "Domain\\Enumeration\\AuthTokenType.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\AuthTokenType.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Enumeration\\AuthTokenType.cs",
               "RelativeToolTip": "Domain\\Enumeration\\AuthTokenType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1180,9 +1180,9 @@
               "$type": "Document",
               "DocumentIndex": 67,
               "Title": "FtpConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Configurations\\FtpConfiguration.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Configurations\\FtpConfiguration.cs",
               "RelativeDocumentMoniker": "Common\\Configurations\\FtpConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Configurations\\FtpConfiguration.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Configurations\\FtpConfiguration.cs",
               "RelativeToolTip": "Common\\Configurations\\FtpConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1192,9 +1192,9 @@
               "$type": "Document",
               "DocumentIndex": 68,
               "Title": "UserRoleConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\UserRoleConfiguration.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\UserRoleConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistance\\Configuration\\UserRoleConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Infrastructure\\Persistance\\Configuration\\UserRoleConfiguration.cs",
+              "ToolTip": "F:\\T\\Template\\Infrastructure\\Persistance\\Configuration\\UserRoleConfiguration.cs",
               "RelativeToolTip": "Infrastructure\\Persistance\\Configuration\\UserRoleConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1204,9 +1204,9 @@
               "$type": "Document",
               "DocumentIndex": 69,
               "Title": "StringHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Helpers\\StringHelper.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Helpers\\StringHelper.cs",
               "RelativeDocumentMoniker": "Common\\Helpers\\StringHelper.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Helpers\\StringHelper.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Helpers\\StringHelper.cs",
               "RelativeToolTip": "Common\\Helpers\\StringHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1216,9 +1216,9 @@
               "$type": "Document",
               "DocumentIndex": 70,
               "Title": "BadRequestException.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Exceptions\\BadRequestException.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "Common\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Exceptions\\BadRequestException.cs",
               "RelativeToolTip": "Common\\Exceptions\\BadRequestException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1228,9 +1228,9 @@
               "$type": "Document",
               "DocumentIndex": 72,
               "Title": "EventDispatcherService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Services\\EventDispatcherService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Services\\EventDispatcherService.cs",
               "RelativeDocumentMoniker": "Common\\Services\\EventDispatcherService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Services\\EventDispatcherService.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Services\\EventDispatcherService.cs",
               "RelativeToolTip": "Common\\Services\\EventDispatcherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1240,9 +1240,9 @@
               "$type": "Document",
               "DocumentIndex": 76,
               "Title": "CreatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Events\\CreatedEvent.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Events\\CreatedEvent.cs",
               "RelativeDocumentMoniker": "Domain\\Events\\CreatedEvent.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Events\\CreatedEvent.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Events\\CreatedEvent.cs",
               "RelativeToolTip": "Domain\\Events\\CreatedEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1252,9 +1252,9 @@
               "$type": "Document",
               "DocumentIndex": 78,
               "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\Gender.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Enumeration\\Gender.cs",
               "RelativeDocumentMoniker": "Domain\\Enumeration\\Gender.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\Gender.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Enumeration\\Gender.cs",
               "RelativeToolTip": "Domain\\Enumeration\\Gender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1264,9 +1264,9 @@
               "$type": "Document",
               "DocumentIndex": 77,
               "Title": "MfaProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\MfaProvider.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Enumeration\\MfaProvider.cs",
               "RelativeDocumentMoniker": "Domain\\Enumeration\\MfaProvider.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\MfaProvider.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Enumeration\\MfaProvider.cs",
               "RelativeToolTip": "Domain\\Enumeration\\MfaProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1276,9 +1276,9 @@
               "$type": "Document",
               "DocumentIndex": 74,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\User.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Entities\\User.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Entities\\User.cs",
               "RelativeToolTip": "Domain\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1288,9 +1288,9 @@
               "$type": "Document",
               "DocumentIndex": 71,
               "Title": "IEventDispatcherService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Interfaces\\IEventDispatcherService.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Interfaces\\IEventDispatcherService.cs",
               "RelativeDocumentMoniker": "Common\\Interfaces\\IEventDispatcherService.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Interfaces\\IEventDispatcherService.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Interfaces\\IEventDispatcherService.cs",
               "RelativeToolTip": "Common\\Interfaces\\IEventDispatcherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1300,9 +1300,9 @@
               "$type": "Document",
               "DocumentIndex": 75,
               "Title": "UpdatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Events\\UpdatedEvent.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Events\\UpdatedEvent.cs",
               "RelativeDocumentMoniker": "Domain\\Events\\UpdatedEvent.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Events\\UpdatedEvent.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Events\\UpdatedEvent.cs",
               "RelativeToolTip": "Domain\\Events\\UpdatedEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1312,9 +1312,9 @@
               "$type": "Document",
               "DocumentIndex": 73,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "F:\\T\\Template\\API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\T\\Template\\API\\Properties\\launchSettings.json",
               "RelativeToolTip": "API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1324,9 +1324,9 @@
               "$type": "Document",
               "DocumentIndex": 79,
               "Title": "ActivityLog.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\ActivityLog.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Domain\\Enumeration\\ActivityLog.cs",
               "RelativeDocumentMoniker": "Domain\\Enumeration\\ActivityLog.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Domain\\Enumeration\\ActivityLog.cs",
+              "ToolTip": "F:\\T\\Template\\Domain\\Enumeration\\ActivityLog.cs",
               "RelativeToolTip": "Domain\\Enumeration\\ActivityLog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1336,9 +1336,9 @@
               "$type": "Document",
               "DocumentIndex": 80,
               "Title": "IUpdatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Interfaces\\IUpdatedEvent.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Interfaces\\IUpdatedEvent.cs",
               "RelativeDocumentMoniker": "Common\\Interfaces\\IUpdatedEvent.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Interfaces\\IUpdatedEvent.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Interfaces\\IUpdatedEvent.cs",
               "RelativeToolTip": "Common\\Interfaces\\IUpdatedEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1348,9 +1348,9 @@
               "$type": "Document",
               "DocumentIndex": 81,
               "Title": "ICreatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Interfaces\\ICreatedEvent.cs",
+              "DocumentMoniker": "F:\\T\\Template\\Common\\Interfaces\\ICreatedEvent.cs",
               "RelativeDocumentMoniker": "Common\\Interfaces\\ICreatedEvent.cs",
-              "ToolTip": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Interfaces\\ICreatedEvent.cs",
+              "ToolTip": "F:\\T\\Template\\Common\\Interfaces\\ICreatedEvent.cs",
               "RelativeToolTip": "Common\\Interfaces\\ICreatedEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1318,11 +1318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj",
+      "projectUniqueName": "F:\\T\\Template\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\Common.csproj",
+      "projectPath": "F:\\T\\Template\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Dell XPS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell XPS\\source\\repos\\Template\\Common\\obj\\",
+      "outputPath": "F:\\T\\Template\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
