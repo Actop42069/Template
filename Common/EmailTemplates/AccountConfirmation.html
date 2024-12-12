@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirm Your Account</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #4A90E2;
+            --secondary-color: #50C878;
+            --text-dark: #2C3E50;
+            --text-light: #7F8C8D;
+            --background-light: #F4F6F7;
+            --white: #FFFFFF;
+            --border-radius: 12px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--background-light);
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .email-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: var(--white);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+        }
+
+        .email-header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            padding: 20px;
+            text-align: center;
+        }
+
+        .logo {
+            max-height: 50px;
+            filter: brightness(0) invert(1);
+        }
+
+        .email-content {
+            padding: 40px 30px;
+        }
+
+        .greeting {
+            font-size: 24px;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 20px;
+        }
+
+        .main-text {
+            font-size: 16px;
+            color: var(--text-light);
+            margin-bottom: 25px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: var(--white);
+            padding: 14px 30px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+            .cta-button:hover {
+                background-color: #3A7BD5;
+            }
+
+        .note-section {
+            background-color: var(--background-light);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+        }
+
+        .note {
+            font-size: 14px;
+            color: var(--text-light);
+        }
+
+        .support-text {
+            font-size: 15px;
+            color: var(--text-light);
+            margin-bottom: 25px;
+        }
+
+        .signature {
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+
+        .email-footer {
+            background-color: var(--background-light);
+            padding: 20px;
+            text-align: center;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 15px;
+        }
+
+            .footer-links a {
+                color: var(--text-light);
+                text-decoration: none;
+                font-size: 13px;
+                transition: color 0.3s ease;
+            }
+
+                .footer-links a:hover {
+                    color: var(--primary-color);
+                }
+
+        .copyright {
+            font-size: 12px;
+            color: var(--text-light);
+        }
+
+        @media (max-width: 600px) {
+            .email-container {
+                width: 100%;
+                border-radius: 0;
+            }
+
+            .email-content {
+                padding: 30px 20px;
+            }
+
+            .greeting {
+                font-size: 20px;
+            }
+
+            .main-text {
+                font-size: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="email-header">
+            <img src="{{company_logo}}" alt="Company Logo" class="logo">
+        </div>
+
+        <div class="email-content">
+            <h1 class="greeting">Hi {{user_name}},</h1>
+
+            <p class="main-text">
+                Thank you for signing up for {{application_name}}! Please confirm your email address to activate your account and start using our services.
+            </p>
+
+            <a href="{{confirmation_link}}" class="cta-button">Activate My Account</a>
+
+            <div class="note-section">
+                <p class="note">
+                    If you didn't sign up for this account, you can safely ignore this email.
+                </p>
+            </div>
+
+            <p class="support-text">
+                If you have any questions or need assistance, our support team is always ready to help. Simply reply to this email, and we'll get back to you promptly.
+            </p>
+
+            <p class="signature">
+                Best regards,<br>
+                The {{application_name}} Team
+            </p>
+        </div>
+
+        <div class="email-footer">
+            <div class="footer-links">
+                <a href="{{support_link}}">Support</a>
+                <a href="{{faq_link}}">FAQ</a>
+                <a href="{{privacy_policy_link}}">Privacy Policy</a>
+                <a href="{{terms_link}}">Terms of Service</a>
+            </div>
+            <p class="copyright">
+                &copy; {{current_year}} {{company_name}}. All rights reserved.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

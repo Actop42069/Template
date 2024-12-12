@@ -1,0 +1,208 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your One-Time Password (OTP)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #6366F1;
+            --secondary-color: #4338CA;
+            --text-dark: #1F2937;
+            --text-light: #6B7280;
+            --background-light: #F9FAFB;
+            --white: #FFFFFF;
+            --border-radius: 12px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--background-light);
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .email-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: var(--white);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+        }
+
+        .email-header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            padding: 20px;
+            text-align: center;
+        }
+
+        .logo {
+            max-height: 50px;
+            filter: brightness(0) invert(1);
+        }
+
+        .email-content {
+            padding: 40px 30px;
+        }
+
+        .greeting {
+            font-size: 24px;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 20px;
+        }
+
+        .main-text {
+            font-size: 16px;
+            color: var(--text-light);
+            margin-bottom: 25px;
+        }
+
+        .otp-section {
+            background-color: var(--background-light);
+            padding: 25px;
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        .otp-code {
+            font-size: 32px;
+            font-weight: 700;
+            letter-spacing: 8px;
+            color: var(--primary-color);
+            background-color: var(--white);
+            padding: 15px;
+            border-radius: 8px;
+            display: inline-block;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .otp-expiry {
+            font-size: 14px;
+            color: var(--text-light);
+            margin-top: 15px;
+        }
+
+        .note-section {
+            background-color: rgba(99, 102, 241, 0.05);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .note {
+            font-size: 14px;
+            color: var(--text-light);
+        }
+
+        .security-tip {
+            font-size: 14px;
+            color: var(--text-light);
+            margin-bottom: 25px;
+            text-align: center;
+        }
+
+        .email-footer {
+            background-color: var(--background-light);
+            padding: 20px;
+            text-align: center;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 15px;
+        }
+
+            .footer-links a {
+                color: var(--text-light);
+                text-decoration: none;
+                font-size: 13px;
+                transition: color 0.3s ease;
+            }
+
+                .footer-links a:hover {
+                    color: var(--primary-color);
+                }
+
+        .copyright {
+            font-size: 12px;
+            color: var(--text-light);
+        }
+
+        @media (max-width: 600px) {
+            .email-container {
+                width: 100%;
+                border-radius: 0;
+            }
+
+            .email-content {
+                padding: 30px 20px;
+            }
+
+            .greeting {
+                font-size: 20px;
+            }
+
+            .otp-code {
+                font-size: 24px;
+                letter-spacing: 4px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="email-header">
+            <img src="{{company_logo}}" alt="Company Logo" class="logo">
+        </div>
+
+        <div class="email-content">
+            <h1 class="greeting">Hi {{user_name}},</h1>
+
+            <p class="main-text">
+                The One-Time Password (OTP) you requested is provided below:
+            </p>
+
+            <div class="otp-section">
+                <div class="otp-code">{{otp_code}}</div>
+                <p class="otp-expiry">This OTP is valid for {{otp_expiry_minutes}} minutes</p>
+            </div>
+
+            <div class="note-section">
+                <p class="note">
+                    If you did not request this OTP, please ignore this email or contact our support team immediately.
+                </p>
+            </div>
+
+            <p class="security-tip">
+                🔒 Never share this OTP with anyone. {{application_name}} will never ask for your password.
+            </p>
+        </div>
+
+        <div class="email-footer">
+            <div class="footer-links">
+                <a href="{{support_link}}">Support</a>
+                <a href="{{faq_link}}">FAQ</a>
+                <a href="{{privacy_policy_link}}">Privacy Policy</a>
+                <a href="{{terms_link}}">Terms of Service</a>
+            </div>
+            <p class="copyright">
+                &copy; {{current_year}} {{company_name}}. All rights reserved.
+            </p>
+        </div>
+    </div>
+</body>
+</html>
