@@ -35,3 +35,5 @@ To integrate this template into your project:
 8. Create a new project using the template:
    dotnet new template --name "YourProjectName"
 9. Open the solution project in your IDE/Text Editor and enjoy building your application!
+
+Tip : If you're having trouble with configuring SMTP, download PaperCutSMTP from https://github.com/ChangemakerStudios/Papercut-SMTP
